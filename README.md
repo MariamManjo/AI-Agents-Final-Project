@@ -34,5 +34,3 @@ A conversational expense tracker with live financial data.
 ##  Dependencies
 langgraph, langchain, langchain-openai, requests, pydantic
 
----
-*Built for AI Agents course · TSU · May 2026*
