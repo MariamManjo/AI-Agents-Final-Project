@@ -1,10 +1,10 @@
-# 🤖 AI Agents Final Project
+#  AI Agents Final Project
 
 Personal Finance Tracker Agent built with LangGraph, LangChain, and OpenAI GPT-4o-mini.
 
 ---
 
-## 💰 Personal Finance Tracker Agent
+##  Personal Finance Tracker Agent
 **File:** `AGENT2.ipynb`
 
 A conversational expense tracker with live financial data.
@@ -25,13 +25,13 @@ A conversational expense tracker with live financial data.
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 - Python 3.10+
 - OpenAI API key (gpt-4o-mini)
 - Google Colab (free)
 - Internet connection
 
-## 📦 Dependencies
+##  Dependencies
 langgraph, langchain, langchain-openai, requests, pydantic
 
 ---
